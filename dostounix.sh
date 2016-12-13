@@ -1,5 +1,5 @@
 #!/bin/sh
-
+# 不完整，只能用于ascii文件，但是该脚本会将所有的普通文件( -type f )按照ascii文件转换(待解决)
 if [ $# -lt 1 ]
 then
     echo "./a.out dirname"
