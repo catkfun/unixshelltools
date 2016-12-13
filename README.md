@@ -3,3 +3,4 @@
 dostounix.sh    批量转换dos格式ascii文件到unix utf8
 
 test2
+test
